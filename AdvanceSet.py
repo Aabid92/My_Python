@@ -1,6 +1,6 @@
 # Advance set Operation............... 
 
-myFriends = {"Suraj", "Muskan", "Vishal", "Tejas"}
+myFriends = {"Suraj", "Usman", "Vishal", "Tejas"}
 
 yourFriends = {"Suraj", "Vishal", "Tejas"}
 
